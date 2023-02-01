@@ -1,4 +1,4 @@
-### 👋 Hello world! 👋
+### 👋 Hello and Welcome! 👋
 
 ### :slightly_smiling_face: My name is Parker, and growing up I've always been interested in technology. I'm a software developer looking to showcase my skills and contiinue to learn and perfect my craft.
 
