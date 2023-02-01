@@ -1,4 +1,10 @@
-### Hi there 👋
+### 👋 Hello world! 👋
+
+### :slightly_smiling_face: My name is Parker, and growing up I've always been interested in technology. I'm a software developer looking to showcase my skills and contiinue to learn and perfect my craft.
+
+### :bulb: I'm interested in growing in skills such as ASP.NET | Web API | C#/.NET | SQL | HTML | CSS | JavaScript | Vue.js | ADO.NET | Table Design | E/R diagrams | Unit Testing | Integration Testing | Unix | Git | Visual Studio | Python | Unity | & more.
+
+### 📫 Feel free to reach out by messaging me on LinkedIn: https://www.linkedin.com/in/parker-crook/
 
 <!--
 **parkercr00k/parkercr00k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
