@@ -6,6 +6,8 @@
 
 ### 📫 Feel free to reach out by messaging me on LinkedIn: https://www.linkedin.com/in/parker-crook/
 
+### :point_down: Check out some of my projects below!
+
 <!--
 **parkercr00k/parkercr00k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
