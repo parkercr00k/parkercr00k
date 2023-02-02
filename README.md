@@ -1,6 +1,6 @@
 ### 👋 Hello and Welcome! 👋
 
-### :slightly_smiling_face: My name is Parker, and growing up I've always been interested in technology. I'm a software developer looking to showcase my skills and contiinue to learn and perfect my craft.
+### :slightly_smiling_face: My name is Parker, and growing up I've always been interested in technology. I'm a software developer looking to showcase my skills and contiinue to learn and perfect my craft. I'm currently seeking a role as a junior developer where I can apply my passion to the workforce. I desire to  have an impact on the world through the solutions, accessiblity, and productivity that web applications can provide.
 
 ### :bulb: I'm interested in growing my skills in ASP.NET | Web API | C#/.NET | SQL | HTML | CSS | JavaScript | Vue.js | ADO.NET | Table Design | E/R diagrams | Unit Testing | Integration Testing | Unix | Git | Visual Studio | Python | Unity | & more.
 
